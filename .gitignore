@@ -1,0 +1,7 @@
+.env
+.env.*
+*.log
+attached_assets/Pasted-this-is-my-github-token*.txt
+SHUKLAMUSIC/assets/cookies.txt
+__pycache__/
+*.pyc
